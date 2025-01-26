@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RepositoryManagerApp/1.0.0": {
+        "dependencies": {
+          "RepositoryManagerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryManagerApp.dll": {}
+        }
+      },
+      "RepositoryManagerLibrary/1.0.0": {
+        "runtime": {
+          "RepositoryManagerLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepositoryManagerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryManagerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

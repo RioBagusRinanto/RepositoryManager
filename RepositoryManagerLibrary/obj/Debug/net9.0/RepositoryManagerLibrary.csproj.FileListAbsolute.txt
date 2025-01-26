@@ -1,0 +1,11 @@
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\bin\Debug\net9.0\RepositoryManagerLibrary.deps.json
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\bin\Debug\net9.0\RepositoryManagerLibrary.dll
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\bin\Debug\net9.0\RepositoryManagerLibrary.pdb
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\RepositoryManagerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\RepositoryManagerLibrary.AssemblyInfoInputs.cache
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\RepositoryManagerLibrary.AssemblyInfo.cs
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\RepositoryManagerLibrary.csproj.CoreCompileInputs.cache
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\RepositoryManagerLibrary.dll
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\refint\RepositoryManagerLibrary.dll
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\RepositoryManagerLibrary.pdb
+D:\New Me\c#\Folmulatrix\B\RepositoryManagerSolution\RepositoryManagerLibrary\obj\Debug\net9.0\ref\RepositoryManagerLibrary.dll
